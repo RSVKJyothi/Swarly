@@ -1,5 +1,9 @@
 # Swarly
+## 📖 Case Study
 
+Read the full product case study here:
+
+[Swarly Product Case Study](docs/case-study.md)
 An AI-powered Carnatic music teacher for absolute beginners.
 
 > No guru available. No app that actually taught.
