@@ -1,4 +1,4 @@
-1. HERO Title: 
+1. Title: 
 Swarly Subtitle: An AI Carnatic music teacher for absolute beginners — built by someone who needed one. One line: "No guru available. No app that actually taught. So I built the teacher I never had." 
 
 2. THE PROBLEM Most people who want to learn Carnatic music face three walls: - No accessible teacher - Apps that assume prior knowledge - Feedback that judges instead of guides ("67% accuracy" means nothing to a beginner) The real gap: nothing that teaches the way a real guru would — starting from breath and posture, building slowly, explaining why before asking you to do. 
